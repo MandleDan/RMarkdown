@@ -2,7 +2,7 @@
 title: "GitHappy R Markdown"
 author: "Dan"
 date: "2025-01-07"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
